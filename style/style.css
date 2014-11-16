@@ -1,0 +1,44 @@
+h1 {
+	color: black;
+	font-size: 70px;
+}
+
+body {
+	background-color: rgb(0796)
+}
+
+
+div#heading {
+	border-width: 2px;
+	border-style: dashed;
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+}
+
+div#logo {
+	border-width: 2px;
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+}
+
+div#description {
+	border-width: 2px;
+	margin: 10px;
+	text-align: left;
+}
+
+
+.title {
+	background-color: yellow; 
+	text-align: center;
+	font-size: 40px;
+}
+
+.subtitle{
+	text-align: left;
+	font-size: 25px;
+	border-style: solid;
+	margin: 5px;
+}
